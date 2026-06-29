@@ -2,6 +2,7 @@
 
 > Drop-in **`better-sqlite3`** API compatibility layer for **Bun** — maps the better-sqlite3 API to `bun:sqlite`.
 
+[![CI](https://github.com/moghancy/bun-better-sqlite3/actions/workflows/ci.yml/badge.svg)](https://github.com/moghancy/bun-better-sqlite3/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## What is this?
